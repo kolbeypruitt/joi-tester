@@ -1,6 +1,6 @@
 # joi-tester
 
-> Quickly test joi validation in the browser
+> A fork of https://github.com/framp/joi-tester
 
 ## Build Setup
 
